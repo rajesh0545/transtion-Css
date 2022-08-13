@@ -1,0 +1,15 @@
+div {
+    width: 100px;
+    height: 270px;
+    background-color: chocolate;
+    margin:20px;
+    text-align: center;
+    transition-duration:2000ms ;
+    font-weight: bold;
+    transition-timing-function: ease-in;
+  }
+  div:hover {
+    border-radius: 60px;
+    background-color: blue;
+    border-radius: 5sec ease-in;
+  }
